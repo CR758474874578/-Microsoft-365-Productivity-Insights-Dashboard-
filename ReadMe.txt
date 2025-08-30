@@ -86,5 +86,6 @@ Thank You:
 LinkedIn: https://www.linkedin.com/in/tanmay-sharma-800599373/
 Project: https://github.com/Tanu272004/-Microsoft-365-Productivity-Insights-Dashboard-
 Git hub: https://github.com/Tanu272004
-Blob: https://hashnode.com/@tanmay27
+Blog: https://hashnode.com/@tanmay27
+
 
