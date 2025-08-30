@@ -1,0 +1,10 @@
+## 📦 requirements.txt  
+
+```txt
+mysql-connector-python
+pandas
+sqlalchemy
+numpy
+matplotlib
+seaborn
+openpyxl
